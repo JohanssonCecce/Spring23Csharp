@@ -17,11 +17,9 @@ Then enter the folder
     cd lab
 
 Then run the app:
-    
-    npm start 
 
+    npm start
 
 ## Reference
 
 https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
-
